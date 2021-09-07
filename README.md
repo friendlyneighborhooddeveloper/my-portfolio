@@ -11,3 +11,4 @@ Content:
   An ABOUT ME  section
   A list of projects worked on
   contacts section
+  

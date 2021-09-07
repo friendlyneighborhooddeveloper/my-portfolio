@@ -9,5 +9,5 @@ Decription:
 
 Content:
   An ABOUT ME  section
-  A list of projects worke on
+  A list of projects worked on
   contacts section
